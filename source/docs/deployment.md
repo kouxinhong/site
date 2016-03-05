@@ -36,8 +36,8 @@ Edit settings.
 ``` yaml
 deploy:
   type: git
-  repo: <repository url>
-  branch: [branch]
+  repo: https://github.com/kouxinhong/kouxinhong.github.io.git
+  branch: master
   message: [message]
 ```
 
